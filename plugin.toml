@@ -1,0 +1,5 @@
+name = "rcon"
+authors = ["sel-project"]
+target = "hub"
+main = "selery.rcon.Main"
+dependencies.dub.libasync = "~>0.8.3"
